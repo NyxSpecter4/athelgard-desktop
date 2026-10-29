@@ -1,4 +1,4 @@
-# Athelgard 2.6.4 - portable
+# Athelgard 2.6.5 - portable
 
 One file. No Node.js, no Ollama, no browser extension, no coding agent.
 
@@ -6,10 +6,10 @@ It carries her window, her edge, her brain and her node channel. Double-click it
 
 ## Download
 
-[`Athelgard-2.6.4-portable.exe`](https://github.com/NyxSpecter4/athelgard-desktop/releases/download/v2.6.4-portable/Athelgard-2.6.4-portable.exe)
+[`Athelgard-2.6.5-portable.exe`](https://github.com/NyxSpecter4/athelgard-desktop/releases/download/v2.6.5-portable/Athelgard-2.6.5-portable.exe)
 
-- SHA-256: `52A1D99AB32035514DB8ED357F936068E929176FA986D294B6EB0D04E044E210`
-- Size: 139413101 bytes
+- SHA-256: `F1B1996DE6D6830DE54C3807B87AA7E413B6ADC9404C16E378E85B8DF3BBCA0A`
+- Size: 139407092 bytes
 
 ## What the laptop needs
 
@@ -21,7 +21,7 @@ It carries her window, her edge, her brain and her node channel. Double-click it
 
 - ZERO paid tokens. Her brain is local.
 
-In 2.6.4 a captured flag can be SPENT. The operator opens the CAPTURE SUBMISSION LANE once, on the venue, and her own hand submits what she found - no ask, no press, and nothing else covered.
+In 2.6.5 a captured flag can be SPENT. The operator opens the CAPTURE SUBMISSION LANE once, on the venue, and her own hand submits what she found - no ask, no press, and nothing else covered.
 LIVE on a real venue: HTTP 200 correct/125 points, and the scoreboard moved 0 -> 125.
 
 She asks before she presses anything. The grant is yours, and it lasts one session.
