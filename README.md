@@ -1,4 +1,4 @@
-# Athelgard 2.6.0 - portable
+# Athelgard 2.6.1 - portable
 
 One file. No Node.js, no Ollama, no browser extension, no coding agent.
 
@@ -6,10 +6,10 @@ It carries her window, her edge, her brain and her node channel. Double-click it
 
 ## Download
 
-[Athelgard-2.6.0-portable.exe](https://github.com/NyxSpecter4/athelgard-desktop/releases/download/v2.6.0-portable/Athelgard-2.6.0-portable.exe)
+[Athelgard-2.6.1-portable.exe](https://github.com/NyxSpecter4/athelgard-desktop/releases/download/v2.6.1-portable/Athelgard-2.6.1-portable.exe)
 
-- SHA-256: `397F01D5C63B303BA235A50F2CD3626106F2EF2EC6042C47A270C0ACEF58525F`
-- Size: 139355541 bytes (133 MB)
+- SHA-256: `4A04E0BF3DED91DDDB9D891194F6BC3652F23663A33978EA702CCF329F72CE9C`
+- Size: 139326924 bytes
 
 ## What the laptop needs
 
@@ -22,9 +22,12 @@ It carries her window, her edge, her brain and her node channel. Double-click it
 Zero paid tokens. Her brain is local (the KIN 3B, Q4).
 A step on a contended laptop takes 90-250 s; on a quiet one, under a minute.
 
-## The receipt (2026-10-28)
+## The receipt (2026-10-29)
 
-She hunted a real CTF alone on this build: five doors, five live flags staged byte-for-byte,
-in the operator order, with zero paid tokens.
+She hunted a real CTF alone: five doors, five live flags staged byte-for-byte, in the operator order,
+with zero paid tokens.
+
+In 2.6.1 a flag read off a door is banked as a finding that NAMES the door. Measured on THE VAULT:
+five doors, five flags staged, two findings before, five after, every one carrying its door.
 
 She asks before she presses anything. The grant is yours, and it lasts one session.
